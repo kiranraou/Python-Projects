@@ -1,1 +1,1 @@
-Mid Term Project
+Machine Learning _ Deep Learning Project
